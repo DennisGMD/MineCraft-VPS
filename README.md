@@ -1,0 +1,2 @@
+# MineCraft-VPS
+For minecraft
